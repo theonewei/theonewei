@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Isaac Wei
 - 👀 I’m interested in learning trivia, snowboarding, and travelling to snowboard and learn trivia. I'm also an avid reader of fantasy novels and science fiction.
-- 🌱 I’m currently learning how to make a web server api in python.
+- 🌱 I’m currently learning how to make a web server api using django.
 - 💞️ I’m looking to collaborate on a webscraping project to track the movements of the streetware secondary markets.
 - 📫 E-mail: wei.n.isaac@gmail.com
 
